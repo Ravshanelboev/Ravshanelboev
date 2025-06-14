@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6366F1&height=200&section=header&text=Salom,%20men%20Ravshan!&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6366F1&height=200&section=header&text=Hi,%20I`m%20Ravshan!&fontSize=35&fontColor=ffffff" />
 </p>
 
-# 👋 Hi ,I`m Ravshan!
+# 👋 Backend Developer!
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -18,8 +18,7 @@
 ---
 
 ## 📬 Kontaktlar
-
-- 📞 Telefon: +998 99 128 68 04  
+ 
 - 📧 Email: [ravshanelboyevv@gmail.com](mailto:ravshanelboyevv@gmail.com)  
 - 📍 Manzil: Toshkent, O‘zbekiston  
 - 🌐 GitHub: [github.com/Ravshanelboev](https://github.com/Ravshanelboev)
