@@ -15,28 +15,28 @@
 </p>
 
 ---
+## 📬Contact
 
-## 📬 
-<p align="center">
-  <a href="mailto:ravshanelboyevv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="mailto:ravshanelboyevv@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="28" alt="Gmail" />
   </a>
-  <a href="https://t.me/ravshanelboyev" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://t.me/@elboyev">
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" height="28" alt="Telegram" />
   </a>
-  <a href="https://www.instagram.com/ravshanelboyev" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/elboyev__">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" height="28" alt="Instagram" />
   </a>
-  <a href="https://github.com/Ravshanelboev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://maps.app.goo.gl/kCvuDY1g5JxF1kAw8" target="_blank">
-    <img src="https://img.shields.io/badge/-Toshkent-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://github.com/Ravshanelboev">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="28" alt="GitHub" />
   </a>
 </p>
 
+<p><strong>📍 Manzil:</strong> Toshkent, O‘zbekiston</p>
 
-## 
+
+
+## Skills
 
 - PHP, Laravel
 - Git, GitHub
